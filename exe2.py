@@ -1,5 +1,5 @@
-print('Bem Vindo a Sorveteria do Cristian de oliveira')           #aluno: Cristian de oliveira
-print(44*'-'+'CARDÁPIO'+ 44*'-')                                   #RU: 4309585
+print('Bem Vindo a Sorveteria do Cristian')           
+print(44*'-'+'CARDÁPIO'+ 44*'-')                                   
 print('|CÓDIGO   |     DESCRIÇÃO        | TAMANHO P(500ML)  | TAMANHO M (1000ML)  | TAMANHO G(2000ML) |')
 print('|'+94*'-'+'|')
 print('| TR      | SABORES TRADICIONAIS |    R$ 6.00        |    R$ 10.00         |    R$ 18.00       |')
